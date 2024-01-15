@@ -11,4 +11,5 @@ package daw;
 public class Tarea5D {
     int numero;
     int paginas;
+    //pagina
 }
